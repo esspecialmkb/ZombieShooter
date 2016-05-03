@@ -1,6 +1,7 @@
 /*
- * 2nd Generation
- * The map dev tool will need to have an inbuilt editor, using a second state
+ * 2nd Generation base revision
+ * The map dev tool will need to have an inbuilt editor, implementing hard-
+ * coded level with spawnPoints and zoneMesh areas.
  * 
  * This software was built using jMonkeyEngine IDE Copyright (c) 2009-2012
  * All rights reserved.
